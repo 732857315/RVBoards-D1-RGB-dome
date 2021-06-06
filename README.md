@@ -5,6 +5,8 @@
 
 基于大佬的  [RVBoards D1 CPU 使用率指示器](http://gitee.com/zoomdy/rvboards_d1_cpu_usage_indicator/tree/master)  修改而来，有兴趣的可以看看。
 
+此程序主要在gitee同步 [网址点击这里](https://gitee.com/weizhiunknown/rvboards-d1-rgb)
+
 
 编译后：
 
